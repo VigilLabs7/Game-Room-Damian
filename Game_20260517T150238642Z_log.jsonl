@@ -1,1 +1,2 @@
 {"timestamp": "2026-05-17T22:33:13Z", "game_id": "Game_20260517T150238642Z", "query_type": "look_around", "query_args": {"location_id": "INSTANCE:unnamed_starter_town_residential_strip"}, "response": {"error": "location not found", "location_id": "INSTANCE:unnamed_starter_town_residential_strip"}}
+{"timestamp": "2026-05-17T22:33:20Z", "game_id": "Game_20260517T150238642Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:unnamed_starter_town"}, "response": {"error": "location not found: INSTANCE:unnamed_starter_town"}}
