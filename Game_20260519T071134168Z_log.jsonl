@@ -9,3 +9,4 @@
 {"timestamp": "2026-05-19T19:37:28Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "lagota"}, "response": {"error": "location not found: lagota"}}
 {"timestamp": "2026-05-19T19:37:30Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:lagota"}, "response": {"error": "location not found: INSTANCE:lagota"}}
 {"timestamp": "2026-05-19T19:37:32Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "town_lagota"}, "response": {"error": "location not found: town_lagota"}}
+{"timestamp": "2026-05-19T19:37:35Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "lagota_town_square"}, "response": {"error": "location not found: lagota_town_square"}}
