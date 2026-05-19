@@ -4,3 +4,4 @@
 {"timestamp": "2026-05-19T16:22:09Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "unnamed_starter_town"}, "response": {"error": "location not found: unnamed_starter_town"}}
 {"timestamp": "2026-05-19T16:22:15Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:unnamed_starter_town"}, "response": {"error": "location not found: INSTANCE:unnamed_starter_town"}}
 {"timestamp": "2026-05-19T16:34:33Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:unnamed_starter_town"}, "response": {"error": "location not found: INSTANCE:unnamed_starter_town"}}
+{"timestamp": "2026-05-19T19:37:07Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:lagota_gate_approach"}, "response": {"error": "location not found: INSTANCE:lagota_gate_approach"}}
