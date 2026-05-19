@@ -16,3 +16,4 @@
 {"timestamp": "2026-05-19T19:38:18Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "lagota::outskirts"}, "response": {"error": "location not found: lagota::outskirts"}}
 {"timestamp": "2026-05-19T19:38:21Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "unnamed_starter_town"}, "response": {"error": "location not found: unnamed_starter_town"}}
 {"timestamp": "2026-05-19T19:38:23Z", "game_id": "Game_20260519T071134168Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:unnamed_starter_town"}, "response": {"error": "location not found: INSTANCE:unnamed_starter_town"}}
+{"timestamp": "2026-05-19T19:38:42Z", "game_id": "Game_20260519T071134168Z", "query_type": "look_around", "query_args": {"location_id": "INSTANCE:unnamed_starter_town"}, "response": {"error": "location not found", "location_id": "INSTANCE:unnamed_starter_town"}}
