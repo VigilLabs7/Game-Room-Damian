@@ -1,2 +1,0 @@
-{"timestamp": "2026-05-18T02:49:29Z", "game_id": "Game_20260517T235105014Z", "query_type": "enter_location", "query_args": {"location_id": "fault_line_chamber"}, "response": {"error": "location not found: fault_line_chamber"}}
-{"timestamp": "2026-05-18T02:51:00Z", "game_id": "Game_20260517T235105014Z", "query_type": "attempt_action", "query_args": {"action_kind": "examine", "target": "stone_ring", "modifier": "none"}, "response": {"action_kind": "examine", "target": "stone_ring", "target_kind": null, "modifier": "none", "kind": "target_not_found"}}
