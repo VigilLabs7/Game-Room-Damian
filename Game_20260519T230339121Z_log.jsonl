@@ -1,0 +1,1 @@
+{"timestamp": "2026-05-20T01:37:01Z", "game_id": "Game_20260519T230339121Z", "query_type": "clarify", "query_args": {"topic": "record", "ref_line": ""}, "response": {"topic": "record", "last_query": {}, "clarification": {"kind": "echo_prior_response", "note": "Clarify queries do not re-roll. The GM should re-state what was already returned, in fresh language."}}}
