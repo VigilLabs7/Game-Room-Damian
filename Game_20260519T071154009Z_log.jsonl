@@ -18,3 +18,4 @@
 {"timestamp": "2026-05-20T11:14:13Z", "game_id": "Game_20260519T071154009Z", "query_type": "look_around", "query_args": {"location_id": "INSTANCE:desert_dark_structure"}, "response": {"error": "location not found", "location_id": "INSTANCE:desert_dark_structure"}}
 {"timestamp": "2026-05-20T11:14:29Z", "game_id": "Game_20260519T071154009Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:origin_ground"}, "response": {"error": "location not found: INSTANCE:origin_ground"}}
 {"timestamp": "2026-05-20T11:14:32Z", "game_id": "Game_20260519T071154009Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:desert"}, "response": {"error": "location not found: INSTANCE:desert"}}
+{"timestamp": "2026-05-20T11:14:34Z", "game_id": "Game_20260519T071154009Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:structure"}, "response": {"error": "location not found: INSTANCE:structure"}}
